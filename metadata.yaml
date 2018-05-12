@@ -1,0 +1,26 @@
+_repo: Evolution-and-Classification-of-the-Pocket-Gophers-of-the-Subfamily-Geomyinae_40282
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40282-h/images/cover_sm.png
+creator:
+  author:
+    agent_name: Russell, Robert J.
+    gutenberg_agent_id: '34964'
+    url: http://www.gutenberg.org/2009/agents/34964
+description: ''
+gutenberg_issued: '2012-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40282'
+  lccn: '68066899'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pocket gophers'
+- !lcc 'QH'
+- !lcc 'QL'
+title: Evolution and Classification of the Pocket Gophers of the Subfamily Geomyinae
+url: http://www.gutenberg.org/ebooks/40282
